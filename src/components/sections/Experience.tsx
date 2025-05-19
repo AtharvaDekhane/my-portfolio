@@ -59,7 +59,7 @@ const Experience = () => {
     {
       title: "Diploma in Computer Science",
       company: "AISSMS Polytechnic",
-      period: "2011 - 2015",
+      period: "2018 - 2021",
       description: [
         "Gained practical skills in developing desktop and web applications.",
         "Learned core computing technologies including programming, data structures, and algorithms.",

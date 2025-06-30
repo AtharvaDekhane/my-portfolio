@@ -21,8 +21,8 @@ const skillsData = [
       "Java",
       "Spring Boot",
       "Node.js",
-      "Express",
-      "Python"
+      "Python",
+      "Flask"
     ]
   },
   {
